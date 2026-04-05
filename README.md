@@ -1,4 +1,4 @@
-# ⭐ BACKEND FRAMEWORK RANKINGS
+# ⭐ Backend Framework Leaderboard
 
 Live leaderboard of the most popular backend frameworks, ranked by GitHub stars.
 

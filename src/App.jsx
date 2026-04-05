@@ -222,7 +222,7 @@ export default function App() {
           <div className="header-eyebrow">GITHUB STARS</div>
           <h1 className="header-title">
             BACKEND FRAMEWORK
-            <span className="header-title-accent"> RANKINGS</span>
+            <span className="header-title-accent"> LEADERBOARD</span>
           </h1>
           {lastUpdated && (
             <div className="header-updated">
